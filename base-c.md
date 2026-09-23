@@ -1,4 +1,3 @@
-ur
 # Bonjour
 
 Aujourd'hui, nous allons apprendre les bases du C, le tout en français.
